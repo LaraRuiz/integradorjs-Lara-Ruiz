@@ -3,6 +3,7 @@
         "id": "sillon-01",
         "titulo": "SALMON",
         "imagen": "./img/1expo.png",
+        "href": "./producto1.html",
         "categoria": {
             "nombre": "Colores",
             "id": "colores"
@@ -13,6 +14,7 @@
         "id": "sillon-02",
         "titulo": "PACIFIC",
         "imagen": "./img/2expo.png",
+        "href": "./producto2.html",
         "categoria": {
             "nombre": "Neutros",
             "id": "neutros"
@@ -23,6 +25,7 @@
         "id": "sillon-03",
         "titulo": "HOME",
         "imagen": "./img/3expo.png",
+        "href": "./producto3.html",
         "categoria": {
             "nombre": "Colores",
             "id": "colores"
@@ -33,6 +36,7 @@
         "id": "sillon-04",
         "titulo": "HENNA",
         "imagen": "./img/4expo.png",
+        "href": "./producto4.html",
         "categoria": {
             "nombre": "Colores",
             "id": "colores"
@@ -43,6 +47,7 @@
         "id": "sillon-05",
         "titulo": "TREE",
         "imagen": "./img/5expo.png",
+        "href": "./producto5.html",
         "categoria": {
             "nombre": "Colores",
             "id": "colores"
@@ -53,6 +58,7 @@
         "id": "sillon-06",
         "titulo": "RELAX",
         "imagen": "./img/6expo.png",
+        "href": "./producto6.html",
         "categoria": {
             "nombre": "Neutros",
             "id": "neutros"
@@ -63,6 +69,7 @@
         "id": "sillon-07",
         "titulo": "CUBIK",
         "imagen": "./img/7expo.png",
+        "href": "./producto7.html",
         "categoria": {
             "nombre": "Neutros",
             "id": "neutros"
@@ -73,6 +80,7 @@
         "id": "sillon-08",
         "titulo": "SOFT",
         "imagen": "./img/8expo.png",
+        "href": "./producto8.html",
         "categoria": {
             "nombre": "Neutros",
             "id": "neutros"
